@@ -1,0 +1,1 @@
+export { SellerAssets as default } from './SellerPages.jsx';

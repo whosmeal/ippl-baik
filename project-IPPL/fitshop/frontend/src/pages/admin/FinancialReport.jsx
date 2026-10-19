@@ -1,0 +1,1 @@
+export { FinancialReport as default } from './AdminPages.jsx';

@@ -1,0 +1,1 @@
+export { VerifyStore as default } from './AdminPages.jsx';

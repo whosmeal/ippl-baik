@@ -1,0 +1,1 @@
+export { TryOn as default } from './BuyerPages.jsx';
